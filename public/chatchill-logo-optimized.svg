@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="80" viewBox="0 0 300 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ghost icon -->
+  <path d="M40 16C26.7452 16 16 26.7452 16 40C16 53.2548 26.7452 64 40 64C53.2548 64 64 53.2548 64 40C64 26.7452 53.2548 16 40 16ZM40 56C31.1634 56 24 48.8366 24 40C24 31.1634 31.1634 24 40 24C48.8366 24 56 31.1634 56 40C56 48.8366 48.8366 56 40 56Z" fill="#FFE5B4"/>
+  <!-- Ghost sunglasses -->
+  <path d="M40 32C37.7909 32 36 33.7909 36 36C36 38.2091 37.7909 40 40 40C42.2091 40 44 38.2091 44 36C44 33.7909 42.2091 32 40 32Z" fill="#FFE5B4"/>
+  <!-- Text "CHAT" -->
+  <path d="M100 28h-8v24h8c6.6274 0 12-5.3726 12-12s-5.3726-12-12-12zm0 20h-4v-16h4c4.4183 0 8 3.5817 8 8s-3.5817 8-8 8z" fill="#FFE5B4"/>
+  <path d="M132 28h-12v24h12v-4h-8v-6h8v-4h-8v-6h8v-4z" fill="#FFE5B4"/>
+  <path d="M156 28h-4l-8 24h4l2-6h8l2 6h4l-8-24zm-4.8 14l3-9 3 9h-6z" fill="#FFE5B4"/>
+  <path d="M180 28h-4v20h-8v4h20v-4h-8v-20z" fill="#FFE5B4"/>
+  <!-- Text "CHILL" -->
+  <path d="M220 28h-8v24h8c6.6274 0 12-5.3726 12-12s-5.3726-12-12-12zm0 20h-4v-16h4c4.4183 0 8 3.5817 8 8s-3.5817 8-8 8z" fill="#4ECDC4"/>
+  <path d="M252 28h-4v24h4v-24z" fill="#4ECDC4"/>
+  <path d="M272 28h-4v24h4v-24z" fill="#4ECDC4"/>
+  <path d="M292 28h-4v24h4v-24z" fill="#4ECDC4"/>
+  <path d="M312 28h-12v24h12v-4h-8v-6h8v-4h-8v-6h8v-4z" fill="#4ECDC4"/>
+</svg> 
